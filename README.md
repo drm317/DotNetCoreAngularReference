@@ -1,2 +1,2 @@
 # DotNetCoreAngularReference
-Reference implementation demonstrating a clean .Net Core/Angular microservices architecture 
+.Net Core, Angular, Clean Architecture reference implementation
